@@ -32,7 +32,7 @@ const Hero2:React.FC=()=>{
         <div className="hero_lottie">
         {/* <DisplayLottie /> */}
         <div className="hero_img">
-        <img src="./hero_img.png" alt="" />
+        <img src="./profile_photo.png" alt="" />
         </div>
 
         </div>
