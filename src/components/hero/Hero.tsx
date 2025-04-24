@@ -37,7 +37,7 @@ const Hero2:React.FC=()=>{
 
         </div>
         <div className="hero_right">
-            <h1>Full Stack <br /> Developer 
+            <h1>Software <br /> Developer 
                 </h1></div>
         </div>
 
