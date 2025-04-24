@@ -7,7 +7,7 @@ import {ScrollTrigger} from "gsap/ScrollTrigger"
 const ScrollText: React.FC = () => {
     gsap.registerPlugin(ScrollTrigger)
 
-    const [splitTypesText]= useState('Crazy full stack developer who wants to explore every tech stack⚡Develop highly interactive Front end and Backend for your web applications⚡ From front-end design to back-end development,⚡ I strive to deliver clean, efficient, and scalable solutions that meet modern web standards. ');
+    const [splitTypesText]= useState('Software developer who wants to explore every tech stack⚡Develop highly interactive Front end and Backend for your web applications⚡ From front-end design to back-end development,⚡ I strive to deliver clean, efficient, and scalable solutions that meet modern web standards. ');
     // const st=document.querySelector('.reaveal-type')
 
     // splitTypesText.map((char,i)
